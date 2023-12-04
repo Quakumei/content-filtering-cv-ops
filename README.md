@@ -1,5 +1,7 @@
 # NSFW detector
 
+Container for [nsfw-detector](https://pypi.org/project/nsfw-detector/) (a.k.a [nsfw_model](https://github.com/GantMan/nsfw_model/))
+
 ## Setup
 
 ```bash
