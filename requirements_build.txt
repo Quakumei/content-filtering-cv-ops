@@ -1,0 +1,4 @@
+bentoml[io-image]==1.2.7
+keras==2.*
+tensorflow==2.15.*
+tensorflow-hub==0.15.*

@@ -1,0 +1,6 @@
+version: '3.8'
+services: 
+  nsfw-filter-api:
+    image: nsfw-299-inception-v3:0.0.1
+    ports:
+      - 3000:3000
